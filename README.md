@@ -1,12 +1,12 @@
 # Kruskal
 Third Assignment for Data Structure class, COSE213-01, 2019 Spring Semester.
 
-Kruskal Algorithm in C
+# Kruskal Algorithm in C
 
 Given a graph as input, this program prints MST(Minimum Spanning Tree) using Kruskal's Algorithm.
 When giving an input graph to program, you should input
-1. # of vertices
-2. edge information from vertice i to 'higher' vertice.
+Number of vertices
+Edge information from vertice i to 'higher' vertice.
 
 For example, if you have edge whose weight is 10 between vertice 1 and vertice 3, you should input
 3 10 while program is getting 'vertice 1' informations. You should ignore the edge when program is getting
